@@ -1,0 +1,24 @@
+.containerContent{
+    width: 100%;
+    height: 100vh; /*o vh pega 100% da tela de visualização*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentCover > img{
+    border: 5px solid #808080;
+    border-radius: 5px;
+    width: 350px;
+    min-width: 350px;
+    height: 250px;
+}
+
+.contentDescription{
+    margin-top: 15px;
+}
+
+.contentDescription> p{
+    color: rgb(198, 197, 197);
+}
