@@ -1,0 +1,10 @@
+@media screen and (max-width:600px){
+    .container__menu-title > h1{
+        font-size: 30px;
+    }
+}
+/* 
+com o media screen posso definir regras de tamanho
+para definir cada elemento na tela do celular ou
+outro dispositivo com a tela menu
+*/
